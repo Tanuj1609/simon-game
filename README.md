@@ -1,2 +1,1 @@
-# simon-
-simon game created by Tanuj
+I've built a classic Simon game using HTML, CSS, and JavaScript. Players test their memory by repeating increasingly complex color patterns. The game features vibrant visuals, responsive controls, and challenging gameplay. With each round, the sequence lengthens, demanding sharper focus and quicker reflexes. Immerse yourself in the addictive challenge of matching the flashing colors and see how far you can progress.
